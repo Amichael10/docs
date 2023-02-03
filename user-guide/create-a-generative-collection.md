@@ -1,2 +1,0 @@
-# 📂 Create A Generative Collection
-

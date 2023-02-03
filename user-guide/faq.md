@@ -36,8 +36,8 @@ Each layer in the image represents a trait (Hair, Outfit, etc), and each trait w
 
 **How do I mint my collection?**
 
-{% content-ref url="create-a-generative-collection.md" %}
-[create-a-generative-collection.md](create-a-generative-collection.md)
+{% content-ref url="create-a-generative-collection/" %}
+[create-a-generative-collection](create-a-generative-collection/)
 {% endcontent-ref %}
 
 **Which blockchains does Genadrop support?**

@@ -12,72 +12,9 @@ Coming from the name "**Generative** **Drops**". GenaDrop allows artists to crea
 
 This doc link can be found here: [genadrop.com/docs](https://www.genadrop.com/docs)
 
-## 🚩 Getting Started
 
-### How to Create Art
 
-[https://youtu.be/wC0odzMW\_9g](https://youtu.be/wC0odzMW\_9g)
-
-User Flow for Create Art Page
-
-1. Create Collection Name
-   1. Create - click the Pencil icon under Gendrop over the Layer name and Traits.
-2. Create All Your Layer Names.
-   1. Click the Add Layer button.
-   2. Examples: Background, Body, Outfit, Mouth, Eyes, Hair Accessories
-
-Create - Add Layer under layer name and traits at left column - name - Add - click the Pencil icon
-
-1. Reorder Your Layers
-   1. Reorder your asset layers from foreground to background
-
-Click the specific layer - Move the cursor to which layer you want
-
-1. Click Upload Button In Each Layer Rectangle (Middle Column)
-   1. Select All Assets of That Layer and Upload A Layer At A Time
-   2. They All Need to Be the Same Size .PNG files
-
-Upload images or Browse files
-
-1. Click on Layer From Each Asset To Preview
-   1. Swipe to preview
-2. Generate Blank Images and Edit Rarities
-   1. Edit rarity (talks about number weight here)
-
-Rarity: 1 click pencil under each image
-
-1. Add blank images
-
-Add blank button
-
-1. Add conflict rules to specify which assets/layers cannot go with each other
-
-set conflict - earing image you want to hide - scarf image - Add Rule - check Rules
-
-1. Generate & Preview
-   1. Pick the number of NFTs you want to generate
-
-Click Amount to Generate in the right column
-
-1. Click generate, and wait for all the assets to generate
-2. Then click preview
-
-Click the Eye icon on the left side of Generate Collection
-
-1. Edit Images & Download with Metadata
-   1. Rename Images and their metadata
-
-Click the Pencil icon in the right column for the name
-
-1. Name collection and description for metadata
-
-Write down the Collection description
-
-1. Delete undesired rendered images and pick a new one from the unused batch
-
-Click the red Cross on the image you just generated
-
-Click Generate New under the imag
+###
 
 1. Download .zip with accompanying metadata for IPFS or Arweave
 2. Download and Mint
@@ -88,49 +25,6 @@ Click Generate New under the imag
 Don't have your own assets or art but want to test GenaDrop out? Download this folder of Iris (EYE) assets [https://drive.google.com/drive/folders/1ubiApq3D-OpyldR6BN9xldAOq5Cz0mWz?usp=sharing](https://drive.google.com/drive/folders/1ubiApq3D-OpyldR6BN9xldAOq5Cz0mWz?usp=sharing)
 
 
-
-### How to Mint
-
-You first either have the option to mint -
-
-* the .ZIP collection folder you downloaded from the GenaDrop CREATE section **OR**
-* a 1 of 1 (unique) art piece (.PNG) / Take a photograph with your phone or webcam
-
-**Minting on Algorand**
-
-[https://www.youtube.com/watch?v=JZaAsZYdDAg](https://www.youtube.com/watch?v=JZaAsZYdDAg)
-
-#### Collections
-
-With the collections mint, all the appropriate metadata for each NFT, collection, etc. was created when u zipped up the collection in the "Create section". In the listing section.
-
-User Flow
-
-1. Click to upload .ZIP collection
-
-a. Click "Browse files" or drag and drop your files.
-
-2\. Edit information (if need be)
-
-3\. Connect wallet
-
-a. Click connect wallet
-
-4\. Choose chain
-
-a. Ex: Algorand
-
-b. Insert price for NFT
-
-5\. Mint
-
-a. Click Mint.
-
-Here is how to mint an NFT (in this case on Algorand)
-
-[https://youtu.be/6Ku0vccZCPM](https://youtu.be/6Ku0vccZCPM)
-
-Unlike the price for 1 of 1s, the collection price is the mint price (or the initial floor price).
 
 ### 1 of 1s
 
