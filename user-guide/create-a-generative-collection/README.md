@@ -6,6 +6,8 @@ description: >-
 
 # 📂 Create A Generative Collection
 
+##
+
 ## What is A Generative Collection
 
 A generative collection is one where the program generates layers and different rarities to create thousands of images. Ex; Bored Apes
@@ -21,6 +23,10 @@ A generative collection is one where the program generates layers and different 
 
 {% content-ref url="resuming-a-session.md" %}
 [resuming-a-session.md](resuming-a-session.md)
+{% endcontent-ref %}
+
+{% content-ref url="rendering-and-download-your-generated-art.md" %}
+[rendering-and-download-your-generated-art.md](rendering-and-download-your-generated-art.md)
 {% endcontent-ref %}
 
 {% content-ref url="publishing-minting-your-generated-art.md" %}
