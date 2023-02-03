@@ -12,25 +12,33 @@ Coming from the name "**Generative** **Drops**". GenaDrop allows artists to crea
 
 This doc link can be found here:
 
-https://www.docs.genadrop.io&#x20;
+[https://www.docs.genadrop.io ](https://www.docs.genadrop.io)
 
+## 📍Quickstart
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-
-##
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 ## 🐞 Have an Issue?
 
 If you have an issue, go to the Minority Programmers discord (the creators of GenaDrop), and ask questions in the #support channel
 
-There is an Everything you Need to know on How to use Genadrop and Asked Questions section on the main page, please check that as well
+{% content-ref url="user-guide/faq.md" %}
+[faq.md](user-guide/faq.md)
+{% endcontent-ref %}
 
-
-
-All feedback you give us goes directly into improving the product (also future GenaDrop ALPHA perks) [https://forms.gle/W9uKfr1KTtWThZTR9](https://forms.gle/W9uKfr1KTtWThZTR9)
-
-##
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 
 
