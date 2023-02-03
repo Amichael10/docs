@@ -30,6 +30,7 @@
 
 ## 🛠 Developer Guide
 
+* [🧶 High Level Architecture Overview](developer-guide/high-level-architecture-overview.md)
 * [👩💻 Running the Repo](developer-guide/running-the-repo.md)
 * [➕ Integrating a New Blockchain](developer-guide/integrating-a-new-blockchain.md)
 * [♾ NEAR Implementation](developer-guide/near-implementation.md)
