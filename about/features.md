@@ -4,7 +4,7 @@ description: GenaDrop has a robust feature set available on all the supported bl
 
 # 💅 Features
 
-Minting / Creating NFTs
+## Minting / Creating NFTs
 
 * Generative Collections (Save Sessions, Generate Preview Gifs, Choose Rarities, Customize Layers with metadata, Omit Bad Renders, Choose Resolution, Add Blanks, Choose Number of Combinations, Select New Renders from Batch, Export As Zip), Mint Entire Collection with All Metadata
 * Auto IPFS upload for Asset + Metadata (Free)
@@ -28,7 +28,7 @@ Minting / Creating NFTs
 * AI Generated Text Generation (Titles + NFT Metadata coming soon)
 * Grouping and Minting Different NFTs into a collection (coming soon)
 
-Marketplace
+## Marketplace
 
 * List NFT
 * Delist NFT
