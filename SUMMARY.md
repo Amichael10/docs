@@ -19,6 +19,7 @@
   * [▶ Resuming A Session](user-guide/create-a-generative-collection/resuming-a-session.md)
   * [♻ Rendering & Download Your Generated Art](user-guide/create-a-generative-collection/rendering-and-download-your-generated-art.md)
   * [✅ Publishing / "Minting" Your Generated Art](user-guide/create-a-generative-collection/publishing-minting-your-generated-art.md)
+* [🧮 Estimated Transaction Fees](user-guide/estimated-transaction-fees.md)
 * [📖 Glossary](user-guide/glossary.md)
 * [⁉ FAQ](user-guide/faq.md)
 

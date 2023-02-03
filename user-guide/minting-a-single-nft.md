@@ -1,6 +1,14 @@
+---
+description: Mint an individual NFT
+---
+
 # 🖼 Minting a Single NFT
 
-### 1 of 1s
+### 1 of 1s (Single NFT)
+
+{% hint style="warning" %}
+Connect your wallet to your desired blockchain before you mint or you may lose your progress
+{% endhint %}
 
 For 1 of 1s, you can simply select 1 of 1 option on the Mint page and then upload your picture. Here is the following information you need for an NFT.
 
@@ -8,15 +16,28 @@ For 1 of 1s, you can simply select 1 of 1 option on the Mint page and then uploa
 * Description
 * Attributes: Values
 * Blockchain to Mint On
-* Mint Price
+* Soul Bound NFT&#x20;
+* Address to Mint to
 
-When you click mint the wallet flow will popup where you will be prompted to connect your wallet (or to create on) to the blockchain you are minting on. (You will have to pay gas for the respective blockchain you are minting on. For more information on the wallet, flow sees: How to Connect Wallet ([https://share-docs.clickup.com/d/h/4e6q4-2087/29cf6dd595624ca/4e6q4-1887](https://share-docs.clickup.com/d/h/4e6q4-2087/29cf6dd595624ca/4e6q4-1887)) .
+When you click mint the wallet flow will popup where you will be prompted to connect your wallet (or to create on) to the blockchain you are minting on View the following link to Connect your Wallet.
 
+{% content-ref url="connecting-your-wallet/" %}
+[connecting-your-wallet](connecting-your-wallet/)
+{% endcontent-ref %}
+
+. You will have to pay gas (transaction fee in blockchain's native currency) for the respective blockchain you are minting on.
+
+{% content-ref url="estimated-transaction-fees.md" %}
+[estimated-transaction-fees.md](estimated-transaction-fees.md)
+{% endcontent-ref %}
+
+{% hint style="info" %}
 Note: Minted NFTs may not appear immediately on your dashboard. Please reload the page if you do not see them, or go to the marketplace.
+{% endhint %}
 
 #### **Mint 1 of 1 On Algorand**
 
-[https://www.youtube.com/watch?v=iD6aWNRu1CI](https://www.youtube.com/watch?v=iD6aWNRu1CI)
+{% embed url="https://www.youtube.com/watch?v=iD6aWNRu1CI" %}
 
 ***
 
