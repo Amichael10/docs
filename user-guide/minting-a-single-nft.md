@@ -12,16 +12,16 @@ After you connect your wallet choose a minting option on genadrop.io/create
 
 ## 🧾 Minting Options
 
-{% content-ref url="mint-with-your-camera.md" %}
-[mint-with-your-camera.md](mint-with-your-camera.md)
+{% content-ref url="minting-a-single-nft/mint-with-your-camera.md" %}
+[mint-with-your-camera.md](minting-a-single-nft/mint-with-your-camera.md)
 {% endcontent-ref %}
 
-{% content-ref url="mint-a-tweet.md" %}
-[mint-a-tweet.md](mint-a-tweet.md)
+{% content-ref url="minting-a-single-nft/mint-a-tweet.md" %}
+[mint-a-tweet.md](minting-a-single-nft/mint-a-tweet.md)
 {% endcontent-ref %}
 
-{% content-ref url="text-to-ai-generated-nft.md" %}
-[text-to-ai-generated-nft.md](text-to-ai-generated-nft.md)
+{% content-ref url="minting-a-single-nft/text-to-ai-generated-nft.md" %}
+[text-to-ai-generated-nft.md](minting-a-single-nft/text-to-ai-generated-nft.md)
 {% endcontent-ref %}
 
 ## 🗳️ Enter NFT Details
@@ -37,14 +37,14 @@ For 1 of 1s, you can simply select 1 of 1 option on the Mint page and then uploa
 
 When you click mint the wallet flow will popup where you will be prompted to connect your wallet (or to create on) to the blockchain you are minting on View the following link to Connect your Wallet.
 
-{% content-ref url="../connecting-your-wallet/" %}
-[connecting-your-wallet](../connecting-your-wallet/)
+{% content-ref url="connecting-your-wallet/" %}
+[connecting-your-wallet](connecting-your-wallet/)
 {% endcontent-ref %}
 
 . You will have to pay gas (transaction fee in blockchain's native currency) for the respective blockchain you are minting on.
 
-{% content-ref url="../estimated-transaction-fees.md" %}
-[estimated-transaction-fees.md](../estimated-transaction-fees.md)
+{% content-ref url="estimated-transaction-fees.md" %}
+[estimated-transaction-fees.md](estimated-transaction-fees.md)
 {% endcontent-ref %}
 
 ## 💎 Succesfull Mint

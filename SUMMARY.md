@@ -9,12 +9,12 @@
 
 ## 🤳 User-Guide
 
-* [Exploring Marketplace](user-guide/exploring-marketplace.md)
+* [🍰 Exploring Marketplace](user-guide/exploring-marketplace.md)
 * [👜 Connecting Your Wallet](user-guide/connecting-your-wallet/README.md)
   * [🪙 Getting Testnet Tokens](user-guide/connecting-your-wallet/getting-testnet-tokens.md)
 * [🏪 Listing & Delisting NFTs](user-guide/listing-and-delisting-nfts.md)
 * [🛍 Buying A NFT](user-guide/buying-a-nft.md)
-* [🖼 Minting a Single NFT](user-guide/minting-a-single-nft/README.md)
+* [🖼 Minting a Single NFT](user-guide/minting-a-single-nft.md)
   * [📸 Mint With Your Camera](user-guide/minting-a-single-nft/mint-with-your-camera.md)
   * [🐦 Mint a Tweet](user-guide/minting-a-single-nft/mint-a-tweet.md)
   * [🤖 Text to AI Generated NFT](user-guide/minting-a-single-nft/text-to-ai-generated-nft.md)
