@@ -8,11 +8,9 @@ description: >-
 
 ## About GenaDrop
 
-Coming from the name "**Generative** **Drops**". GenaDrop allows artists to create layers, choose rarities, add conflict rules, add blank images, pick the number to generate, generate a preview, delete bad images, edit metadata, download a zip, upload to your preferred storage(among the category of our supported storage), mint to multiple blockchains with a simple to use user interface.
+Coming from the name "**Generative** **Drops**". Allowing you to Generative NFT drops easily.
 
-This doc link can be found here:
-
-[https://www.docs.genadrop.io ](https://www.docs.genadrop.io)
+This doc link can be found here: [https://www.docs.genadrop.io ](https://www.docs.genadrop.io)
 
 ## 📍Quickstart
 
