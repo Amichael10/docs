@@ -1,6 +1,10 @@
+---
+description: Commonly used terms across the GenaDrop dApp and documentaiton
+---
+
 # 📖 Glossary
 
-## Glossary
+
 
 The following are terms that are used in GenaDrop
 
