@@ -235,6 +235,8 @@ If you have an issue, go to the Minority Programmers discord (the creators of Ge
 
 There is an Everything you Need to know on How to use Genadrop and Asked Questions section on the main page, please check that as well
 
+
+
 All feedback you give us goes directly into improving the product (also future GenaDrop ALPHA perks) [https://forms.gle/W9uKfr1KTtWThZTR9](https://forms.gle/W9uKfr1KTtWThZTR9)
 
 ## Are You An Artist Looking For Support?
@@ -253,39 +255,9 @@ GenaDrop is the no-code multichain generative NFT creator tool, minter, and mark
 
 ]\(https://www.youtube.com/playlist?list=PLfkTuB2ltX12uhYARs5GbE0stptAFSacC)
 
-##
+
 
 ##
-
-## Ideas
-
-## Future Features
-
-### Create App
-
-* Able to do vectors
-* Gif generator
-* Better user wallet flow
-* Ability to draw your own layer
-* Code generator
-* Generative Music Maker
-
-### Mint
-
-* Ability to choose different NFT contracts
-* Ability to show minting contract in mint page
-
-### Blockchains to Add
-
-* Fantom
-* Solana
-* Harmony
-* Shardeum
-* Tron
-* Ethereum
-* Telos
-* EVMos
-* Moonriver (Kusama)
 
 
 
