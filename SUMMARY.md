@@ -25,9 +25,14 @@
 ## 🛠 Developer Guide
 
 * [👩💻 Running the Repo](developer-guide/running-the-repo.md)
+* [➕ Integrating a New Blockchain](developer-guide/integrating-a-new-blockchain.md)
+* [🚧 Deploying EVM Contracts](developer-guide/deploying-evm-contracts.md)
+* [📉 Integrating Subgraphs](developer-guide/integrating-subgraphs.md)
+* [📄 Contract Adresses](developer-guide/contract-adresses.md)
 * [✍ Contributions Guideline](developer-guide/contributions-guideline.md)
 * [🦋 Brandbook](developer-guide/brandbook.md)
 * [👷 Testnet vs Mainnet](developer-guide/testnet-vs-mainnet.md)
+* [💿 Tech Stack](developer-guide/tech-stack.md)
 
 ## 📞 Contact
 

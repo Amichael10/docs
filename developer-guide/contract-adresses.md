@@ -1,57 +1,6 @@
-# 👩💻 Running the Repo
+# 📄 Contract Adresses
 
-[![MIT License](https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge)](https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge\&logo=linkedin\&colorB=555)](https://linkedin.com/company/minority-programmers/)
-
-## GenaDrop
-
-The Ultimate No-code NFT solution\
-[**Explore the docs »**](https://www.docs.genadrop.io)\
-\
-[View Demo](https://youtu.be/wC0odzMW\_9g) · [Report Bug](https://github.com/codingshot/genadrop/issues) · [Request Feature](https://github.com/codingshot/genadrop/issues)
-
-### Getting Started
-
-Proceed with the following steps to get Genadrop up and running on any device
-
-#### Prerequisites
-
-*   npm
-
-    ```
-    npm install npm@latest -g
-    ```
-*   yarn
-
-    ```
-    npm install yarn -g
-    ```
-
-#### Installation
-
-1. Get a free API Key at
-   * Pinata account: https://www.pinata.cloud/
-   * Alchemy account: https://www.alchemy.com/
-2.  Clone the repo
-
-    ```
-    git clone https://github.com/codingshot/genadrop
-    ```
-3.  Install packages
-
-    ```
-    yarn install
-    ```
-
-    Or
-
-    ```
-    npm install
-    ```
-4. Create a `.env` file and enter fill up keys as per the `example.env`
-
-## Contracts
-
-#### Genadrop Contract addresses evm chains
+## EVM Adresses
 
 #### Celo
 
@@ -118,24 +67,9 @@ listing to https://www.tradeport.xyz/ and http://fewfar.com/ marketplaces; there
 
 * WalkThrough Video - https://www.loom.com/share/b2fbf24f8de04a57be9052032ecfba41
 
-### Deploying EVM Contracts
+###
 
-Follow the steps below to contribute to Genadrop
-
-1. create a .env file and add the rpc url for the respective chain you want to deploy to.
-2. Make sure Hardhat is installed, checkout the scripts under the Scripts folder
-3. In your console, `run yarn hardhat run --network (network-name) (script-name)` i.e `yarn hardhat run --network avax scripts/deployMarket.js` to deploy on avax network(check the hardhatconfig.js file to see the various network tags)
-4. The script runs and returns the Deployed Contract address
-
-### Contributing
-
-Follow the steps below to contribute to Genadrop
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`js git commit -m 'Add some AmazingFeature`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+###
 
 (back to top)
 
