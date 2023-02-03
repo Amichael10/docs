@@ -4,9 +4,15 @@ description: Upload your existing art layers
 
 # 🗃 Uploading Your Assets
 
+## Using Test Assets
+
+
+
+Don't have your own assets or art but want to test GenaDrop out? Download this folder of Iris (EYE) assets [https://drive.google.com/drive/folders/1ubiApq3D-OpyldR6BN9xldAOq5Cz0mWz?usp=sharing](https://drive.google.com/drive/folders/1ubiApq3D-OpyldR6BN9xldAOq5Cz0mWz?usp=sharing)
+
 [https://youtu.be/wC0odzMW\_9g](https://youtu.be/wC0odzMW\_9g)
 
-User Flow for Create Art Page
+## User Flow for Create Art Page
 
 1. Create Collection Name
    1. Create - click the Pencil icon under Gendrop over the Layer name and Traits.

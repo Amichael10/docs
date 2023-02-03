@@ -2,8 +2,8 @@
 
 In order to buy and NFT from a respective blockchain, you are going to need to know How to Connect Wallet&#x20;
 
-{% content-ref url="connecting-your-wallet.md" %}
-[connecting-your-wallet.md](connecting-your-wallet.md)
+{% content-ref url="connecting-your-wallet/" %}
+[connecting-your-wallet](connecting-your-wallet/)
 {% endcontent-ref %}
 
 Make sure you are connected to the network. When you click Buy, you then approve the transaction. Once it goes through, you can see on the block explorer the NFT now belongs to you.
